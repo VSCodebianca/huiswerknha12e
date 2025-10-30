@@ -1,0 +1,113 @@
+body{
+    background-color: #ffff;
+}
+header{
+    background-color: #33ccff;
+    width: 100%;
+    height: 200px;
+}
+#hoofd1{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#hoofd2{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#hoofd3{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#hoofd4{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#een{
+    width: 200px;
+    height: 200px;
+    background-color:#ffccff;
+}
+#twee{
+    width: 200px;
+    height: 200px;
+    background-color: #FF99FF;
+}
+#drie{
+    width: 200px;
+    height: 200px;
+    background-color: #FF66FF;
+}
+#vier{
+    width: 200px;
+    height: 200px;
+    background-color: #FF33FF;
+}
+#vijf{
+    width: 200px;
+    height: 200px;
+    background-color: #FFCCCC;
+}
+#zes{
+    width: 200px;
+    height: 200px;
+    background-color: #FF99cc;
+}
+#zeven{
+    width: 200px;
+    height: 200px;
+    background-color: #FF66ff;
+}
+#acht{
+    width: 200px;
+    height: 200px;
+    background-color: #FF33cc;
+}
+#negen{
+    width: 200px;
+    height: 200px;
+    background-color: #ccccff;
+}
+#tien{
+    width: 200px;
+    height: 200px;
+    background-color: #cc99ff;
+}
+#elf{
+    width: 200px;
+    height: 200px;
+    background-color: #cc66ff;
+}
+#twaalf{
+    width: 200px;
+    height: 200px;
+    background-color: #cc33ff;
+}
+#dertien{
+    width: 200px;
+    height: 200px;
+    background-color: #cccccc;
+}
+#veertien{
+    width: 200px;
+    height: 200px;
+    background-color: #cc99cc;
+}
+#vijftien{
+    width: 200px;
+    height: 200px;
+    background-color: #cc66cc;
+}
+#zestien{
+    width: 200px;
+    height: 200px;
+    background-color: #cc33cc;
+}
+footer{
+    background-color: #39f;
+    width: 100%;
+    height: 200px;
+}      
